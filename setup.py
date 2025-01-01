@@ -11,7 +11,7 @@ setup(
         "Topic :: Education",
         "Topic :: Utilities"
     ],
-    message_extractors = {
+    message_extractors = {3
         'submit50': [('**.py', 'python', None),],
     },
     description="This is submit50, with which you can submit solutions to problems for CS50.",
